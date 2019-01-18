@@ -1,9 +1,6 @@
 package kata6;
 
-import java.io.File;
 import java.io.FileNotFoundException;
-import java.util.HashMap;
-import java.util.Iterator;
 import java.util.Map;
 
 /**

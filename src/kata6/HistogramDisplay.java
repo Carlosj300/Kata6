@@ -1,6 +1,5 @@
 package kata6;
 
-import java.awt.Container;
 import java.awt.Dimension;
 import java.util.Map;
 import javax.swing.JPanel;
