@@ -28,7 +28,10 @@ public class Kata6 {
     }
 
     private void process() {
-        //No process required for this version
+        int prof = 2; //Profundidad para recorrer cada archivo recursivamente
+        RecursiveSearch rs = new RecursiveSearch();
+        
+        map = rs.recursiveSearchByProf(prof, map);
     }
 
     private void output() {
